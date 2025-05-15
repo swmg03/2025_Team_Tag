@@ -1,0 +1,10 @@
+.card {
+  width: 300px;
+  height: 150px;
+  background-color: lightblue;
+  border: 2px dashed navy;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 150px; /*텍스트 줄 사이의 거리를 설정*/
+  margin: 0 auto; /*위 아래에는 값을 주지 않고, 좌우는 균등하게 값을 주어 중앙에 두게 된다.*/
+}

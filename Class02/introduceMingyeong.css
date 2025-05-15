@@ -1,0 +1,27 @@
+#intro {
+  color: navy;
+  font-weight: 600;
+}
+
+.favorite {
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  background-color: #d1fae5;
+  padding: 8px 12px;
+  margin-bottom: 5px;
+  border-radius: 8px;
+  width: 200px;
+}
+
+.photo {
+  width: 220px;
+  height: 300px;
+}
